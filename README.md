@@ -1,7 +1,7 @@
 # Hi there, I'm Bernardo! 👋
 
 ## 💫 About Me
-I'm a passionate developer who loves automating the boring stuff, building cool projects, and optimizing everything—from code pipelines to my Stardew Valley animation canceling. 🌾✨
+I'm a passionate developer who loves automating the boring stuff, building cool projects, and optimizing everything.✨
 
 - 🔭 I’m currently working on ... **[nil]**
 - 🌱 I’m currently learning ... **[Source Pawn]**
